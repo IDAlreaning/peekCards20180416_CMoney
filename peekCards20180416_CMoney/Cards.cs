@@ -8,13 +8,13 @@ namespace peekCards20180416_CMoney
 {
     public class Cards
     {
-        public int counter = 52;
+        //public int counter = 52;
 
         public List<int> listCards = new List<int>(52);
 
         public void newCards()
         {
-            counter = 52;
+            //counter = 52;
             listCards.Clear();
             for (int i = 0; i < 52; i++)
             {

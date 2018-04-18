@@ -5,3 +5,10 @@ C:\Users\asus\source\github\peekCards20180416_CMoney\peekCards20180416_CMoney\ob
 C:\Users\asus\source\github\peekCards20180416_CMoney\peekCards20180416_CMoney\obj\Debug\peekCards20180416_CMoney.csproj.CoreCompileInputs.cache
 C:\Users\asus\source\github\peekCards20180416_CMoney\peekCards20180416_CMoney\obj\Debug\peekCards20180416_CMoney.exe
 C:\Users\asus\source\github\peekCards20180416_CMoney\peekCards20180416_CMoney\obj\Debug\peekCards20180416_CMoney.pdb
+C:\Users\captain\Documents\GitHub\peekCards20180416_CMoney\peekCards20180416_CMoney\bin\Debug\peekCards20180416_CMoney.exe.config
+C:\Users\captain\Documents\GitHub\peekCards20180416_CMoney\peekCards20180416_CMoney\bin\Debug\peekCards20180416_CMoney.exe
+C:\Users\captain\Documents\GitHub\peekCards20180416_CMoney\peekCards20180416_CMoney\bin\Debug\peekCards20180416_CMoney.pdb
+C:\Users\captain\Documents\GitHub\peekCards20180416_CMoney\peekCards20180416_CMoney\obj\Debug\peekCards20180416_CMoney.csprojResolveAssemblyReference.cache
+C:\Users\captain\Documents\GitHub\peekCards20180416_CMoney\peekCards20180416_CMoney\obj\Debug\peekCards20180416_CMoney.csproj.CoreCompileInputs.cache
+C:\Users\captain\Documents\GitHub\peekCards20180416_CMoney\peekCards20180416_CMoney\obj\Debug\peekCards20180416_CMoney.exe
+C:\Users\captain\Documents\GitHub\peekCards20180416_CMoney\peekCards20180416_CMoney\obj\Debug\peekCards20180416_CMoney.pdb
